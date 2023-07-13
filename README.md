@@ -2,6 +2,8 @@
 
 A new Flutter project that plays different sound when clicked on different colored button.
 
+<img height = "300" src = "https://github.com/PriyankaArora09/Xylophone/assets/77575440/928857d8-a0d5-40bf-b6ba-a8b6b5d7e204">
+
 ## Getting Started
 
 
